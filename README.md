@@ -2,3 +2,4 @@
 STAT 545 Demo
 Alex
 Microbiologist
+Grad student
